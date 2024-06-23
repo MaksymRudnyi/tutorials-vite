@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.mysvg {
+  fill: red;
+  width: 70px;
+  height: 70px;
+}
